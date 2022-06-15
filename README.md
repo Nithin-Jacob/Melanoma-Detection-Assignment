@@ -22,6 +22,12 @@ The data set contains the following diseases:
 -Squamous cell carcinoma
 -Vascular lesion
 
+![Disease Dataset ](Resources/image.png)
+
+## Data Augmentation
+Multiple augmentation techniques were used and generated images were added to database to increase the number of images and rebalance.
+The following is an example of augmented images.  ![Augmented Dataset ](Resources/augmented_image.png)
+
 ## Conclusions
 Multiple models of CNN were build to find an optimum solution. The final model has around 80% test and train accuracy.
 
